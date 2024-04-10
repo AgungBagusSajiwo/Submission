@@ -1,5 +1,5 @@
 # Submission
 
 ini adalah program KNN regresi menggunakan bahasa Golang
-
-File submission.go dan dataset.csv Running di direktori yang sama
+Run      = ex: submission-main> go run submission.go
+Output   = Prediction for new data point: 9.0

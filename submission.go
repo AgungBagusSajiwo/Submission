@@ -101,5 +101,5 @@ func main() {
 
 	k := 3
 	prediction := KNN(k, dataset, newPoint)
-	fmt.Println("Prediction for new data point:", prediction)
+	fmt.Println("Prediksi untuk titik data baru:", prediction)
 }

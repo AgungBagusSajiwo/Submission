@@ -2,4 +2,4 @@
 
 ini adalah program KNN regresi menggunakan bahasa Golang
 Run      = ex: submission-main> go run submission.go
-Output   = Prediction for new data point: 9.0
+Output   = Prediksi untuk titik data baru: 9.0
